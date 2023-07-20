@@ -11,22 +11,23 @@
 
 .bannerbgimg{
     height: 100vh;
-    background-image: url("../images/lp.jpg");
+    background-image: url("../images/banner1.jpg");
     background-size: cover;
     position: relative;
 }
 
 .bannerText{
-    text-align: center;
+    text-align: left;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    color:aliceblue;
+    color:black;
 }
 
 .bannerTitle{
     font-size: 4rem;
+    color:black;
 }
 
 .bannerDesc{
