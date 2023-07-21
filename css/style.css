@@ -55,7 +55,7 @@
 
 .card:hover{
     background-color: #afeeee;
-    border: 2px solid #3700ff;
+    border: 2px solid #0f0e0f;
 }
 
 .BIcon{
@@ -63,9 +63,12 @@
     text-align:center;
     font-size: 40px;
 }
+.card-img{
+    height: 450px;
+}
 
 .img-fluid:hover{
-    border: 3px solid #0800ff;
+    border: 3px solid #0a0a0b;
 
 }
 
